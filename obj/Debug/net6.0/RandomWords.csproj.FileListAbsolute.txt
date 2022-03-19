@@ -1,0 +1,15 @@
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\bin\Debug\net6.0\RandomWords.exe
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\bin\Debug\net6.0\RandomWords.deps.json
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\bin\Debug\net6.0\RandomWords.runtimeconfig.json
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\bin\Debug\net6.0\RandomWords.dll
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\bin\Debug\net6.0\RandomWords.pdb
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.dll
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\refint\RandomWords.dll
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.pdb
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\RandomWords.genruntimeconfig.cache
+C:\Users\win 10\Desktop\programming\C#\RandomWords\RandomWords\obj\Debug\net6.0\ref\RandomWords.dll
